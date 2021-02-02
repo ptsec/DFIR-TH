@@ -1,2 +1,2 @@
 # DFIR-TH
-DFIR &amp; TH Methodologies and Tools
+DFIR & Threat Hunting - Methodologies and Tools
